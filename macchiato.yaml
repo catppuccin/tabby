@@ -1,0 +1,23 @@
+name: Catppuccin Macchiato
+foreground: HSL(227, 68%, 88%)
+background: HSL(232, 23%, 18%)
+selection: null
+cursor: HSL(10, 58%, 90%)
+cursorAccent: null
+colors:
+  - HSL(231, 16%, 34%)
+  - HSL(351, 74%, 73%)
+  - HSL(105, 48%, 72%)
+  - HSL(40, 70%, 78%)
+  - HSL(220, 83%, 75%)
+  - HSL(316, 74%, 85%)
+  - HSL(189, 59%, 73%)
+  - HSL(227, 68%, 88%)
+  - HSL(231, 16%, 39%)
+  - HSL(351, 74%, 78%)
+  - HSL(105, 48%, 77%)
+  - HSL(40, 70%, 83%)
+  - HSL(220, 83%, 80%)
+  - HSL(316, 74%, 90%)
+  - HSL(189, 59%, 78%)
+  - HSL(227, 68%, 93%)
