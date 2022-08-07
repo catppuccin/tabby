@@ -1,0 +1,23 @@
+name: Catppuccin Latte
+foreground: HSL(234, 16%, 35%)
+background: HSL(220, 23%, 95%)
+selection: null
+cursor: HSL(11, 59%, 67%)
+cursorAccent: null
+colors:
+  - HSL(234, 13% 31%)
+  - HSL(347, 87%, 44%)
+  - HSL(109, 58%, 40%)
+  - HSL(35, 77%, 49%)
+  - HSL(220, 91%, 54%)
+  - HSL(316, 73%, 69%)
+  - HSL(197, 97%, 46%)
+  - HSL(234, 16%, 35%)
+  - HSL(234, 13% 36%)
+  - HSL(347, 87%, 49%)
+  - HSL(109, 58%, 45%)
+  - HSL(35, 77%, 54%)
+  - HSL(220, 91%, 59%)
+  - HSL(316, 73%, 74%)
+  - HSL(197, 97%, 51%)
+  - HSL(234, 16%, 40%)
