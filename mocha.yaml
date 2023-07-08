@@ -1,23 +1,23 @@
 name: Catppuccin Mocha
-foreground: HSL(226, 64%, 88%)
-background: HSL(240, 21%, 15%)
+foreground: #CDD6F4
+background: #1E1E2E
 selection: null
-cursor: HSL(10, 56%, 91%)
+cursor: #F5DFDB
 cursorAccent: null
 colors:
-  - HSL(234, 13%, 31%)
-  - HSL(343, 81%, 75%)
-  - HSL(115, 54%, 76%)
-  - HSL(41, 86%, 83%)
-  - HSL(217, 92%, 76%)
-  - HSL(316, 72%, 86%)
-  - HSL(189, 71%, 73%)
-  - HSL(226, 64%, 88%)
-  - HSL(234, 13%, 36%)
-  - HSL(343, 81%, 80%)
-  - HSL(115, 54%, 81%)
-  - HSL(41, 86%, 88%)
-  - HSL(217, 92%, 81%)
-  - HSL(316, 72%, 91%)
-  - HSL(189, 71%, 78%)
-  - HSL(226, 64%, 93%)
+  - #454759
+  - #F38CA9
+  - #A6E3A1
+  - #F9E1AE
+  - #89B5FA
+  - #F5C2E7
+  - #89DCEB
+  - #CDD6F4
+  - #505268
+  - #F5A3BA
+  - #B9E9B4
+  - #FBEAC6
+  - #A2C4FB
+  - #F9D8F0
+  - #9FE3EF
+  - #E2E7F9
