@@ -1,23 +1,23 @@
 name: Catppuccin Mocha
-foreground: #CDD6F4
-background: #1E1E2E
+foreground: '#cdd6f4'
+background: '#1e1e2e'
 selection: null
-cursor: #F5DFDB
+cursor: '#f5e0dc'
 cursorAccent: null
 colors:
-  - #454759
-  - #F38CA9
-  - #A6E3A1
-  - #F9E1AE
-  - #89B5FA
-  - #F5C2E7
-  - #89DCEB
-  - #CDD6F4
-  - #505268
-  - #F5A3BA
-  - #B9E9B4
-  - #FBEAC6
-  - #A2C4FB
-  - #F9D8F0
-  - #9FE3EF
-  - #E2E7F9
+  - '#45475a'
+  - '#f38ba8'
+  - '#a6e3a1'
+  - '#f9e2af'
+  - '#89b4fa'
+  - '#f5c2e7'
+  - '#94e2d5'
+  - '#bac2de'
+  - '#585b70'
+  - '#f38ba8'
+  - '#a6e3a1'
+  - '#f9e2af'
+  - '#89b4fa'
+  - '#f5c2e7'
+  - '#94e2d5'
+  - '#bac2de'

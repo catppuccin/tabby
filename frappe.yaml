@@ -1,23 +1,23 @@
-name: Catppuccin Frappe
-foreground: #C7D1F5
-background: #303446
+name: Catppuccin Frappé
+foreground: '#c6d0f5'
+background: '#303446'
 selection: null
-cursor: #F2D5CF
+cursor: '#f2d5cf'
 cursorAccent: null
 colors:
-  - #50566D
-  - #E78384
-  - #A6D189
-  - #E5C88F
-  - #8CA9EE
-  - #F4B8E4
-  - #99D1DB
-  - #C7D1F5
-  - #5B627B
-  - #EB989A
-  - #B4D89C
-  - #EAD2A4
-  - #A2BAF1
-  - #F7CEED
-  - #ACDAE2
-  - #DCE3F9
+  - '#51576d'
+  - '#e78284'
+  - '#a6d189'
+  - '#e5c890'
+  - '#8caaee'
+  - '#f4b8e4'
+  - '#81c8be'
+  - '#b5bfe2'
+  - '#51576d'
+  - '#e78284'
+  - '#a6d189'
+  - '#e5c890'
+  - '#8caaee'
+  - '#f4b8e4'
+  - '#81c8be'
+  - '#b5bfe2'

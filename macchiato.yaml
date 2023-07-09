@@ -1,23 +1,23 @@
 name: Catppuccin Macchiato
-foreground: #CCD5F5
-background: #232638
+foreground: '#cdd6f4'
+background: '#24273a'
 selection: null
-cursor: #F4DCD7
+cursor: '#f4dbd6'
 cursorAccent: null
 colors:
-  - #494D65
-  - #ED8796
-  - #A6DA95
-  - #EED4A0
-  - #8AAEF4
-  - #F5BCE6
-  - #92D7E3
-  - #CCD5F5
-  - #545873
-  - #F09DAA
-  - #B6E1A8
-  - #F2DEB5
-  - #A2BEF6
-  - #F8D3EE
-  - #A6DEE8
-  - #E1E6F9
+  - '#494d64'
+  - '#f38ba8'
+  - '#a6da95'
+  - '#eed49f'
+  - '#8aadf4'
+  - '#f5bde6'
+  - '#8bd5ca'
+  - '#b8c0e0'
+  - '#5b6078'
+  - '#f38ba8'
+  - '#a6da95'
+  - '#eed49f'
+  - '#8aadf4'
+  - '#f5bde6'
+  - '#8bd5ca'
+  - '#b8c0e0'

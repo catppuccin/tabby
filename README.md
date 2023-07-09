@@ -12,26 +12,26 @@
 </p>
 
 <p align="center">
-	<img src="./assets/preview.webp"/>
+	<img src="./assets/Preview.webp"/>
 </p>
 
 ## Previews
 
 <details>
 <summary>🌻 Latte</summary>
-<img src="assets/latte.png"/>
+<img src="assets/Latte.webp"/>
 </details>
 <details>
 <summary>🪴 Frappé</summary>
-<img src="assets/frappe.png"/>
+<img src="assets/Frappé.webp"/>
 </details>
 <details>
 <summary>🌺 Macchiato</summary>
-<img src="assets/macchiato.png"/>
+<img src="assets/Macchiato.webp"/>
 </details>
 <details>
 <summary>🌿 Mocha</summary>
-<img src="assets/mocha.png"/>
+<img src="assets/Mocha.webp"/>
 </details>
 
 ## Usage
