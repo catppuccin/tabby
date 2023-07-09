@@ -1,23 +1,23 @@
-name: Catppuccin Frappe
-foreground: HSL(227, 70%, 87%)
-background: HSL(229, 19%, 23%)
+name: Catppuccin Frappé
+foreground: '#c6d0f5'
+background: '#303446'
 selection: null
-cursor: HSL(10, 57%, 88%)
+cursor: '#f2d5cf'
 cursorAccent: null
 colors:
-  - HSL(227. 15%, 37%)
-  - HSL(359, 68%, 71%)
-  - HSL(96, 44%, 68%)
-  - HSL(40, 62%, 73%)
-  - HSL(222, 74%, 74%)
-  - HSL(316, 73%, 84%)
-  - HSL(189, 48%, 73%)
-  - HSL(227, 70%, 87%)
-  - HSL(227. 15%, 42%)
-  - HSL(359, 68%, 76%)
-  - HSL(96, 44%, 73%)
-  - HSL(40, 62%, 78%)
-  - HSL(222, 74%, 79%)
-  - HSL(316, 73%, 89%)
-  - HSL(189, 48%, 78%)
-  - HSL(227, 70%, 92%)
+  - '#51576d'
+  - '#e78284'
+  - '#a6d189'
+  - '#e5c890'
+  - '#8caaee'
+  - '#f4b8e4'
+  - '#81c8be'
+  - '#b5bfe2'
+  - '#51576d'
+  - '#e78284'
+  - '#a6d189'
+  - '#e5c890'
+  - '#8caaee'
+  - '#f4b8e4'
+  - '#81c8be'
+  - '#a5adce'
