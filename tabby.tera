@@ -1,0 +1,33 @@
+---
+whiskers:
+  version: 2.1.0
+  matrix:
+    - flavor
+  filename: "themes/catppuccin-{{ flavor.identifier }}.yaml"
+---
+
+{%- set palette = flavor.colors -%}
+
+name: Catppuccin {{ flavor.name }}
+foreground: '#{{ palette.text.hex }}'
+background: '#{{ palette.base.hex }}'
+selection: null
+cursor: '#{{ palette.rosewater.hex }}'
+cursorAccent: null
+colors:
+  - '#{% if flavor.dark %}{{ palette.surface1.hex }}{% else %}{{ palette.subtext1.hex }}{% endif %}'
+  - '#{{ palette.red.hex }}'
+  - '#{{ palette.green.hex }}'
+  - '#{{ palette.yellow.hex }}'
+  - '#{{ palette.blue.hex }}'
+  - '#{{ palette.pink.hex }}'
+  - '#{{ palette.teal.hex }}'
+  - '#{% if flavor.dark %}{{ palette.subtext1.hex }}{% else %}{{ palette.surface2.hex }}{% endif %}'
+  - '#{% if flavor.dark %}{{ palette.surface2.hex }}{% else %}{{ palette.subtext0.hex }}{% endif %}'
+  - '#{{ palette.red.hex }}'
+  - '#{{ palette.green.hex }}'
+  - '#{{ palette.yellow.hex }}'
+  - '#{{ palette.blue.hex }}'
+  - '#{{ palette.pink.hex }}'
+  - '#{{ palette.teal.hex }}'
+  - '#{% if flavor.dark %}{{ palette.subtext0.hex }}{% else %}{{ palette.surface1.hex }}{% endif %}'
